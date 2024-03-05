@@ -1,52 +1,30 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+>Lending club is a consumer finance company which specialises in lending various types of loans to urban customers.
+>The company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures.  Borrowers can easily access lower interest rate loans through a fast online interface. 
 
+## Problem Statement
+>When a person applies for a loan, there are two types of decisions that could be taken by the company:
+  • If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+  • If the applicant is not likely to repay the loan, i.e. he/she is likely to default,then approving the loan may lead to a financial loss for the company
+>Lending Club company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilize this knownledge for its portfolio and risk assessment.
+<br>
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+## Analysis Methodology
+>Data Sourcing.
+>Data cleaning and handling.
+>Univariate Analysis.
+>Segmented Univariate Analysis.
+>Bivariate Analysis.
+>Correlation matrix.
+>Recommendations. 
+<br>
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - version 3.x
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+## Libraries Used
+- Pandas , Numpy , Matplotlib , Seaborn
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+## Contributors
+* [Karthikeyan M](https://github.com/itskarthikn)
+* [K. Sathish Kumar](https://github.com/way2ksk)
