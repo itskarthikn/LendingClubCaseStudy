@@ -11,13 +11,13 @@
 <br>
 
 ## Analysis Methodology
->Data Sourcing.<br>
->Data cleaning and handling.<br>
->Univariate Analysis.<br>
->Segmented Univariate Analysis.<br>
->Bivariate Analysis.<br>
->Correlation matrix.<br>
->Recommendations. <br>
+>• Data Sourcing.<br>
+>• Data cleaning and handling.<br>
+>• Univariate Analysis.<br>
+>• Segmented Univariate Analysis.<br>
+>• Bivariate Analysis.<br>
+>• Correlation matrix.<br>
+>• Recommendations. <br>
 <br>
 
 ## Technologies Used
